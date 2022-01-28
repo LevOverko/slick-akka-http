@@ -1,0 +1,4 @@
+[0m[[0m[33mwarn[0m] [0m[0m/home/overko/Рабочий стол/slick-akka-http-task/api-akka-http-crud-main/src/main/scala/com/danielasfregola/quiz/management/resources/HttpRoutingService.scala:4:54: imported `UserResource` is permanently hidden by definition of trait UserResource in package resources[0m
+[0m[[0m[33mwarn[0m] [0m[0mimport com.danielasfregola.quiz.management.resources.UserResource[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                                     ^[0m
+[0m[[0m[33mwarn[0m] [0m[0mone warning found[0m

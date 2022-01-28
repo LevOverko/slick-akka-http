@@ -1,0 +1,137 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /home/overko/Рабочий стол/slick-akka-http-task/api-akka-http-crud-main/project/target/scala-2.10/sbt-0.13/classes
+compile options:
+1 items
+0 -> -deprecation
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.10.7
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+6 items
+/home/overko/Рабочий стол/slick-akka-http-task/api-akka-http-crud-main/project/Dependencies.scala -> /home/overko/Рабочий стол/slick-akka-http-task/api-akka-http-crud-main/project/target/scala-2.10/sbt-0.13/classes/Dependencies$.class
+/home/overko/Рабочий стол/slick-akka-http-task/api-akka-http-crud-main/project/Dependencies.scala -> /home/overko/Рабочий стол/slick-akka-http-task/api-akka-http-crud-main/project/target/scala-2.10/sbt-0.13/classes/Dependencies.class
+/home/overko/Рабочий стол/slick-akka-http-task/api-akka-http-crud-main/project/Dependencies.scala -> /home/overko/Рабочий стол/slick-akka-http-task/api-akka-http-crud-main/project/target/scala-2.10/sbt-0.13/classes/Library$.class
+/home/overko/Рабочий стол/slick-akka-http-task/api-akka-http-crud-main/project/Dependencies.scala -> /home/overko/Рабочий стол/slick-akka-http-task/api-akka-http-crud-main/project/target/scala-2.10/sbt-0.13/classes/Library.class
+/home/overko/Рабочий стол/slick-akka-http-task/api-akka-http-crud-main/project/Dependencies.scala -> /home/overko/Рабочий стол/slick-akka-http-task/api-akka-http-crud-main/project/target/scala-2.10/sbt-0.13/classes/Version$.class
+/home/overko/Рабочий стол/slick-akka-http-task/api-akka-http-crud-main/project/Dependencies.scala -> /home/overko/Рабочий стол/slick-akka-http-task/api-akka-http-crud-main/project/target/scala-2.10/sbt-0.13/classes/Version.class
+binary dependencies:
+3 items
+/home/overko/Рабочий стол/slick-akka-http-task/api-akka-http-crud-main/project/Dependencies.scala -> /home/overko/.ivy2/cache/org.scala-sbt/ivy/jars/ivy-0.13.18.jar
+/home/overko/Рабочий стол/slick-akka-http-task/api-akka-http-crud-main/project/Dependencies.scala -> /home/overko/.ivy2/cache/org.scala-sbt/sbt/jars/sbt-0.13.18.jar
+/home/overko/Рабочий стол/slick-akka-http-task/api-akka-http-crud-main/project/Dependencies.scala -> /home/overko/.sbt/boot/scala-2.10.7/lib/scala-library.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+6 items
+/home/overko/Рабочий стол/slick-akka-http-task/api-akka-http-crud-main/project/Dependencies.scala -> Dependencies
+/home/overko/Рабочий стол/slick-akka-http-task/api-akka-http-crud-main/project/Dependencies.scala -> Dependencies$
+/home/overko/Рабочий стол/slick-akka-http-task/api-akka-http-crud-main/project/Dependencies.scala -> Library
+/home/overko/Рабочий стол/slick-akka-http-task/api-akka-http-crud-main/project/Dependencies.scala -> Library$
+/home/overko/Рабочий стол/slick-akka-http-task/api-akka-http-crud-main/project/Dependencies.scala -> Version
+/home/overko/Рабочий стол/slick-akka-http-task/api-akka-http-crud-main/project/Dependencies.scala -> Version$
+used names:
+43 items
+/home/overko/Рабочий стол/slick-akka-http-task/api-akka-http-crud-main/project/Dependencies.scala -> %
+/home/overko/Рабочий стол/slick-akka-http-task/api-akka-http-crud-main/project/Dependencies.scala -> %%
+/home/overko/Рабочий стол/slick-akka-http-task/api-akka-http-crud-main/project/Dependencies.scala -> <init>
+/home/overko/Рабочий стол/slick-akka-http-task/api-akka-http-crud-main/project/Dependencies.scala -> <repeated>
+/home/overko/Рабочий стол/slick-akka-http-task/api-akka-http-crud-main/project/Dependencies.scala -> A
+/home/overko/Рабочий стол/slick-akka-http-task/api-akka-http-crud-main/project/Dependencies.scala -> Any
+/home/overko/Рабочий стол/slick-akka-http-task/api-akka-http-crud-main/project/Dependencies.scala -> AnyRef
+/home/overko/Рабочий стол/slick-akka-http-task/api-akka-http-crud-main/project/Dependencies.scala -> Configuration
+/home/overko/Рабочий стол/slick-akka-http-task/api-akka-http-crud-main/project/Dependencies.scala -> Dependencies
+/home/overko/Рабочий стол/slick-akka-http-task/api-akka-http-crud-main/project/Dependencies.scala -> GroupArtifactID
+/home/overko/Рабочий стол/slick-akka-http-task/api-akka-http-crud-main/project/Dependencies.scala -> GroupID
+/home/overko/Рабочий стол/slick-akka-http-task/api-akka-http-crud-main/project/Dependencies.scala -> Library
+/home/overko/Рабочий стол/slick-akka-http-task/api-akka-http-crud-main/project/Dependencies.scala -> ModuleID
+/home/overko/Рабочий стол/slick-akka-http-task/api-akka-http-crud-main/project/Dependencies.scala -> ModuleIDConfigurable
+/home/overko/Рабочий стол/slick-akka-http-task/api-akka-http-crud-main/project/Dependencies.scala -> Nothing
+/home/overko/Рабочий стол/slick-akka-http-task/api-akka-http-crud-main/project/Dependencies.scala -> Object
+/home/overko/Рабочий стол/slick-akka-http-task/api-akka-http-crud-main/project/Dependencies.scala -> Predef
+/home/overko/Рабочий стол/slick-akka-http-task/api-akka-http-crud-main/project/Dependencies.scala -> Seq
+/home/overko/Рабочий стол/slick-akka-http-task/api-akka-http-crud-main/project/Dependencies.scala -> String
+/home/overko/Рабочий стол/slick-akka-http-task/api-akka-http-crud-main/project/Dependencies.scala -> Test
+/home/overko/Рабочий стол/slick-akka-http-task/api-akka-http-crud-main/project/Dependencies.scala -> Version
+/home/overko/Рабочий стол/slick-akka-http-task/api-akka-http-crud-main/project/Dependencies.scala -> akka
+/home/overko/Рабочий стол/slick-akka-http-task/api-akka-http-crud-main/project/Dependencies.scala -> akkaActor
+/home/overko/Рабочий стол/slick-akka-http-task/api-akka-http-crud-main/project/Dependencies.scala -> akkaHttp
+/home/overko/Рабочий стол/slick-akka-http-task/api-akka-http-crud-main/project/Dependencies.scala -> akkaHttpJson4s
+/home/overko/Рабочий стол/slick-akka-http-task/api-akka-http-crud-main/project/Dependencies.scala -> akkaStream
+/home/overko/Рабочий стол/slick-akka-http-task/api-akka-http-crud-main/project/Dependencies.scala -> apply
+/home/overko/Рабочий стол/slick-akka-http-task/api-akka-http-crud-main/project/Dependencies.scala -> collection
+/home/overko/Рабочий стол/slick-akka-http-task/api-akka-http-crud-main/project/Dependencies.scala -> depends
+/home/overko/Рабочий стол/slick-akka-http-task/api-akka-http-crud-main/project/Dependencies.scala -> json4s
+/home/overko/Рабочий стол/slick-akka-http-task/api-akka-http-crud-main/project/Dependencies.scala -> json4sJackson
+/home/overko/Рабочий стол/slick-akka-http-task/api-akka-http-crud-main/project/Dependencies.scala -> json4sNative
+/home/overko/Рабочий стол/slick-akka-http-task/api-akka-http-crud-main/project/Dependencies.scala -> logbackClassic
+/home/overko/Рабочий стол/slick-akka-http-task/api-akka-http-crud-main/project/Dependencies.scala -> moduleIDConfigurable
+/home/overko/Рабочий стол/slick-akka-http-task/api-akka-http-crud-main/project/Dependencies.scala -> package
+/home/overko/Рабочий стол/slick-akka-http-task/api-akka-http-crud-main/project/Dependencies.scala -> postgres
+/home/overko/Рабочий стол/slick-akka-http-task/api-akka-http-crud-main/project/Dependencies.scala -> postgresql
+/home/overko/Рабочий стол/slick-akka-http-task/api-akka-http-crud-main/project/Dependencies.scala -> sbt
+/home/overko/Рабочий стол/slick-akka-http-task/api-akka-http-crud-main/project/Dependencies.scala -> scala
+/home/overko/Рабочий стол/slick-akka-http-task/api-akka-http-crud-main/project/Dependencies.scala -> scalaTest
+/home/overko/Рабочий стол/slick-akka-http-task/api-akka-http-crud-main/project/Dependencies.scala -> slick
+/home/overko/Рабочий стол/slick-akka-http-task/api-akka-http-crud-main/project/Dependencies.scala -> slickHikariCP
+/home/overko/Рабочий стол/slick-akka-http-task/api-akka-http-crud-main/project/Dependencies.scala -> toGroupID
+product stamps:
+6 items
+/home/overko/Рабочий стол/slick-akka-http-task/api-akka-http-crud-main/project/target/scala-2.10/sbt-0.13/classes/Dependencies$.class -> lastModified(1643118284927)
+/home/overko/Рабочий стол/slick-akka-http-task/api-akka-http-crud-main/project/target/scala-2.10/sbt-0.13/classes/Dependencies.class -> lastModified(1643118284911)
+/home/overko/Рабочий стол/slick-akka-http-task/api-akka-http-crud-main/project/target/scala-2.10/sbt-0.13/classes/Library$.class -> lastModified(1643118284951)
+/home/overko/Рабочий стол/slick-akka-http-task/api-akka-http-crud-main/project/target/scala-2.10/sbt-0.13/classes/Library.class -> lastModified(1643118284935)
+/home/overko/Рабочий стол/slick-akka-http-task/api-akka-http-crud-main/project/target/scala-2.10/sbt-0.13/classes/Version$.class -> lastModified(1643118284979)
+/home/overko/Рабочий стол/slick-akka-http-task/api-akka-http-crud-main/project/target/scala-2.10/sbt-0.13/classes/Version.class -> lastModified(1643118284963)
+source stamps:
+1 items
+/home/overko/Рабочий стол/slick-akka-http-task/api-akka-http-crud-main/project/Dependencies.scala -> hash(1840a5e484299435e37d12c1629719b8bac5a30a)
+binary stamps:
+3 items
+/home/overko/.ivy2/cache/org.scala-sbt/ivy/jars/ivy-0.13.18.jar -> lastModified(1618381427000)
+/home/overko/.ivy2/cache/org.scala-sbt/sbt/jars/sbt-0.13.18.jar -> lastModified(1543411903000)
+/home/overko/.sbt/boot/scala-2.10.7/lib/scala-library.jar -> lastModified(1643118087565)
+class names:
+3 items
+/home/overko/.ivy2/cache/org.scala-sbt/ivy/jars/ivy-0.13.18.jar -> sbt.ModuleID
+/home/overko/.ivy2/cache/org.scala-sbt/sbt/jars/sbt-0.13.18.jar -> sbt.package$
+/home/overko/.sbt/boot/scala-2.10.7/lib/scala-library.jar -> scala.collection.generic.GenericCompanion
+internal apis:
+1 items
+/home/overko/Рабочий стол/slick-akka-http-task/api-akka-http-crud-main/project/Dependencies.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwkJSU6QAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAlc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwj6hq0HQABm5vdGlmeXNxAH4ADPpvDgx0AA1zbGlja0hpa2FyaUNQc3EAfgAMkEncV3QACWFra2FBY3RvcnNxAH4ADOWVEyh0AAR3YWl0c3EAfgAMdOrwAHQACXNjYWxhVGVzdHNxAH4ADADshnh0AA0kYXNJbnN0YW5jZU9mc3EAfgAMtBoyRXQADWpzb240c0phY2tzb25zcQB+AAz1RaowdAAFc2xpY2tzcQB+AAyyihczdAAGZXF1YWxzc3EAfgAMGKmz1XQADGFzSW5zdGFuY2VPZnNxAH4ADGaCNDR0AAhwb3N0Z3Jlc3NxAH4ADC7QCbx0AARha2thc3EAfgAMZt4BzHQADHN5bmNocm9uaXplZHNxAH4ADCMBWph0AAxEZXBlbmRlbmNpZXNzcQB+AAwYB7tbdAANJGlzSW5zdGFuY2VPZnNxAH4ADGlKCYJ0AAdWZXJzaW9uc3EAfgAMAih20HQADGpzb240c05hdGl2ZXNxAH4ADAzPGUd0AAlub3RpZnlBbGxzcQB+AAzuSiQ4dAAHTGlicmFyeXNxAH4ADD01M/F0AApwb3N0Z3Jlc3Fsc3EAfgAM99ala3QACmFra2FTdHJlYW1zcQB+AAyNCSD9dAAMaXNJbnN0YW5jZU9mc3EAfgAMk4X463QABmpzb240c3NxAH4ADM73CTN0AAdkZXBlbmRzc3EAfgAMrniPNXQADmFra2FIdHRwSnNvbjRzc3EAfgAMpmhTQ3QACGFra2FIdHRwc3EAfgAMWj3hdnQAAj09c3EAfgAMvucj23QABWNsb25lc3EAfgAMeqXilXQACHRvU3RyaW5nc3EAfgAMnffVnXQAAiE9c3EAfgAMGKTQDHQACGdldENsYXNzc3EAfgAMBuupB3QADmxvZ2JhY2tDbGFzc2ljc3EAfgAMeJoCiXQAAm5lc3EAfgAMFh4whnQAAmVxc3EAfgAMmL2Q4HQAAiMjc3EAfgAMfUGKu3QACGZpbmFsaXplc3EAfgAMhCO+HXQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAA3NyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AYXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHEAfgAtdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAXQAJmpkay5pbnRlcm5hbC5Ib3RTcG90SW50cmluc2ljQ2FuZGlkYXRlc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AHlzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AYUwACWluaGVyaXRlZHEAfgBhTAAHcGFyZW50c3EAfgBheHEAfgB+c3EAfgB5dXEAfgBcAAAAAHNxAH4AeXVxAH4AXAAAAABzcQB+AHl1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AH10AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AH1zcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AJZ0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AJdzcQB+AIp0AANBbnlzcQB+AI5zcQB+AJF1cQB+AJQAAAACc3EAfgCWdAAFc2NhbGFxAH4AnXNxAH4AXnEAfgBrdXEAfgBsAAAAAHNxAH4AbgBxAH4AM3VxAH4AcAAAAABxAH4AdHVxAH4AdgAAAAF0ACZqZGsuaW50ZXJuYWwuSG90U3BvdEludHJpbnNpY0NhbmRpZGF0ZXNxAH4AeXEAfgB/c3EAfgB5c3EAfgCBc3EAfgB5dXEAfgBcAAAAAHNxAH4AeXVxAH4AXAAAAABzcQB+AHl1cQB+AIgAAAACc3EAfgCKcQB+AI1zcQB+AI5zcQB+AJF1cQB+AJQAAAADc3EAfgCWcQB+AJlzcQB+AJZxAH4Am3EAfgCdc3EAfgCKcQB+AJ9zcQB+AI5zcQB+AJF1cQB+AJQAAAACc3EAfgCWcQB+AKRxAH4AnXNxAH4AXnEAfgBrdXEAfgBsAAAAAHNxAH4AbgBxAH4AKXVxAH4AcAAAAABxAH4AdHVxAH4AdgAAAAF0ACZqZGsuaW50ZXJuYWwuSG90U3BvdEludHJpbnNpY0NhbmRpZGF0ZXNxAH4AeXEAfgB/c3EAfgB5c3EAfgCBc3EAfgB5dXEAfgBcAAAAAHNxAH4AeXVxAH4AXAAAAABzcQB+AHl1cQB+AIgAAAACc3EAfgCKcQB+AI1zcQB+AI5zcQB+AJF1cQB+AJQAAAADc3EAfgCWcQB+AJlzcQB+AJZxAH4Am3EAfgCdc3EAfgCKcQB+AJ9zcQB+AI5zcQB+AJF1cQB+AJQAAAACc3EAfgCWcQB+AKRxAH4AnXVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAF+kXpbv3VyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AHwvaG9tZS9vdmVya28v0KDQsNCx0L7Rh9C40Lkg0YHRgtC+0Lsvc2xpY2stYWtrYS1odHRwLXRhc2svYXBpLWFra2EtaHR0cC1jcnVkLW1haW4vcHJvamVjdC90YXJnZXQvc2NhbGEtMi4xMC9zYnQtMC4xMy9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUGECl5IQplDXjfRLBYpcZuLrFowo=
+external apis:
+0 items
+source infos:
+1 items
+/home/overko/Рабочий стол/slick-akka-http-task/api-akka-http-crud-main/project/Dependencies.scala -> 
+AAAAAAAAAAA=
+compilations:
+1 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABfpF6W791cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAfC9ob21lL292ZXJrby/QoNCw0LHQvtGH0LjQuSDRgdGC0L7Quy9zbGljay1ha2thLWh0dHAtdGFzay9hcGktYWtrYS1odHRwLWNydWQtbWFpbi9wcm9qZWN0L3RhcmdldC9zY2FsYS0yLjEwL3NidC0wLjEzL2NsYXNzZXN0AAEv
